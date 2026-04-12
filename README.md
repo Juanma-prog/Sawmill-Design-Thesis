@@ -17,6 +17,7 @@ Fire Protection System: Design of fire protection systems including hydrants and
 Compressed Air System: Generation and distribution network for pneumatic equipment.
 Dust Extraction System: Design of aspiration systems for sawdust and particulate matter control.
 By-product Handling: Management and transport of by-products such as sawdust, wood chips and bark.
+
 🏭 Process Description
 
 The sawmill process includes the following main stages:
@@ -38,11 +39,14 @@ Equipment sizing and selection
 Airflow calculations for dust extraction systems
 Compressed air demand and network design
 Fire protection system design criteria
+
 📁 Repository Structure
+
 /models → Revit models and 3D designs
 /drawings → Technical drawings and plans (PDF)
 /calculations → Engineering calculations (Excel)
 /documentation → Technical reports and project documentation (Spanish)
+
 🌎 Language Note
 
 Most of the detailed technical documentation is written in Spanish.
@@ -53,10 +57,12 @@ This README provides a general overview of the project in English.
 The repository includes technical drawings, system layouts and 3D models to illustrate the design and integration of all systems.
 
 🎯 Project Objectives
+
 Develop an integrated industrial design
 Apply engineering principles to real-world scenarios
 Ensure safety, efficiency and technical feasibility
 Optimize resource utilization and by-product management
+
 📌 Conclusion
 
 This project demonstrates the ability to design and integrate multiple industrial systems within a complex engineering environment. It reflects practical skills in mechanical engineering, with a strong focus on fluid systems, thermal processes and industrial plant design.
